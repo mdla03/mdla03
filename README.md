@@ -5,6 +5,5 @@
 - 👯 I’m looking to collaborate on web development projects, especially those involving backend systems, APIs, or productivity tools.
 - 🤔 I’m looking for help with scaling backend architectures, best practices in EF Core, and designing clean, maintainable systems.
 - 💬 Ask me about ASP.NET Core, CRUD app development, REST APIs, or getting started with backend development.
-- 📫 How to reach me: Check out my social media links in this profile!
-- 😄 Pronouns: he/him
+- 📫 How to reach me: Check out the social media links in my profile!
 - ⚡ Fun fact: I enjoy building tools that help resolve tasks in a more efficient manner.
